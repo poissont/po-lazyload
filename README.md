@@ -1,2 +1,2 @@
 # Introduction 
-Wordpress plugin to ass lazyload functionalities
+Wordpress plugin to add lazyload functionalities
