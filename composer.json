@@ -1,0 +1,30 @@
+{
+    "name": "astera/po-lazyload",
+    "description": "Adds filters and triggers to handle lazyloading on img, background-imgs and iframes",
+    "type": "wordpress-plugin",
+    "require-dev": {},
+    "license": "GPL-2.0-or-later",
+    "authors": [
+      {
+        "name": "Thibault POISSON",
+        "email": "thibaultpoisson@cerp-rouen.fr"
+      }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      "php": "^7.3 | ^8.0"
+    },
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/poissont/po-lazyload",
+        "no-api": true
+      }
+    ],   
+    "config": {
+      "platform": {
+        "php": "7.3.0"
+      }      
+    }
+  }
+  
